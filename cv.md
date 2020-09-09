@@ -38,19 +38,20 @@ I consider myself as fast learning, friendly and communicative person with great
 
 As I mentioned before, I was learning at freecodecamp, so I made a couple of projects out of there:
 
-Landing page
-Curt Cobain Tribute page
-Random Quote Machine
+[Curt Cobain Tribute page](https://codepen.io/Malev0lence/full/gvbrma)
+[Simple Landing page](https://codepen.io/Malev0lence/full/LQEjZz)
+[Random Quote Machine](https://codepen.io/Malev0lence/full/aXpKam)
+
 Some algorithmic tasks:
 
-Sum between numbers in Array
-Checking for anagram
-Sum of prime numbers
+[Sum between numbers in Array](https://codepen.io/Malev0lence/pen/EeQbya)
+[Checking for anagram](https://codepen.io/Malev0lence/pen/xaprRE?editors=0012)
 
 ## English
 
-I estimate my English level as C1. I can read complex texts, listen to podcasts, watch TV and movies in English.
+My English level is abiut C1. I can read complex texts, listen to podcasts, watch TV and movies in English.
 
 ## Contact info
-GitHub;
-telegram.
+
+[GitHub](https://github.com/Malev0lence)
+[telegram](t.me/amazzzing)
