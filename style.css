@@ -1,0 +1,37 @@
+body {
+    max-width: 1024px;
+    margin: 0;
+    padding: 0;
+    margin: 0 auto;
+
+    font-family: Roboto;
+    font-size: 18px;
+}
+ul>li {
+    margin-top: 10px;
+}
+
+.about-me-wrapper {
+    display: flex;
+}
+
+.about-me-wrapper p {
+    align-self: center;
+}
+
+.about-me img {
+    width: 20%;
+    height: 20%;
+}
+
+.skills-wrapper {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.skills-wrapper-right {
+    margin-left: 200px;
+}
+
+
+
