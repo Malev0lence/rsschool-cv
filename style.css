@@ -7,8 +7,19 @@ body {
     font-family: Roboto;
     font-size: 18px;
 }
+
+section {
+    border-bottom: 1px solid #999999;
+}
+
 ul>li {
     margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #999999;
 }
 
 .about-me-wrapper {
@@ -33,5 +44,14 @@ ul>li {
     margin-left: 200px;
 }
 
+.experience ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.experience ul li {
+    padding-left: 10px;
+}
 
 
