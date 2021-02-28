@@ -1,0 +1,57 @@
+body {
+    max-width: 1024px;
+    margin: 0;
+    padding: 0;
+    margin: 0 auto;
+
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+section {
+    border-bottom: 1px solid #999999;
+}
+
+ul>li {
+    margin-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #999999;
+}
+
+.about-me-wrapper {
+    display: flex;
+}
+
+.about-me-wrapper p {
+    align-self: center;
+}
+
+.about-me img {
+    width: 20%;
+    height: 20%;
+}
+
+.skills-wrapper {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.skills-wrapper-right {
+    margin-left: 200px;
+}
+
+.experience ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.experience ul li {
+    padding-left: 10px;
+}
+
+
